@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    font-family: "Noto Sans V2";
+    font-family: "Inter", sans-serif;
+}
+
+.main {
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items: center;
+}
+
+.main img {
+    width: fit-content;
+    height: 25vh;
+}
